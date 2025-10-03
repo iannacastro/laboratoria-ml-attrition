@@ -1,0 +1,23 @@
+# Byte-compiled / caches
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Data
+data/raw/
+*.csv
+*.xlsx
+
+data/sample/
+
+# OS files
+.DS_Store
+Thumbs.db
