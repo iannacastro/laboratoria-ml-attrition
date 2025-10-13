@@ -13,6 +13,7 @@ env/
 
 # Data
 data/raw/
+notebooks/artifacts_attrition/
 *.csv
 *.xlsx
 

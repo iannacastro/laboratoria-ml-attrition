@@ -193,4 +193,3 @@ Com base na análise de importância de variáveis, os principais fatores que in
 - LinkedIn: [Ianna Castro](https://linkedin.com/in/ianna-castro)
 - Email: iannacastrop@gmail.com
 
-⭐ Se este projeto foi útil para você, considere dar uma estrela no repositório!
