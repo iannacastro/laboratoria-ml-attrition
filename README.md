@@ -189,6 +189,7 @@ Com base na análise de importância de variáveis, os principais fatores que in
 
 **Ianna Lise Castro de Paiva**
 
+- Link apresentação: [Rota 3 - ML](https://www.canva.com/design/DAG1olLnH50/sc9IwuKUID3-9280vY5sHg/edit?utm_content=DAG1olLnH50&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - GitHub: [iannacastro](https://github.com/iannacastro)
 - LinkedIn: [Ianna Castro](https://linkedin.com/in/ianna-castro)
 - Email: iannacastrop@gmail.com
