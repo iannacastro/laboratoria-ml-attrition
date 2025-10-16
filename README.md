@@ -2,7 +2,7 @@
 
 > Projeto completo de Machine Learning para prever a rotatividade de funcionários utilizando técnicas avançadas de Data Science. O projeto envolveu análise exploratória, engenharia de variáveis, tratamento de desbalanceamento de classes (SMOTE), modelagem com múltiplos algoritmos (Regressão Logística, Random Forest, XGBoost) e criação de dashboard interativo para visualização de resultados e insights de negócio.
 
-![alt text](display_attrition.gif)
+![display_attrition](https://github.com/user-attachments/assets/67c63c9c-ba4f-4ebf-b1cd-b8cc372c4004)
 
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
